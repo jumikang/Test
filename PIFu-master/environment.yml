@@ -1,0 +1,13 @@
+name: PIFu
+channels:
+- pytorch
+- defaults
+dependencies:
+- opencv
+- pytorch
+- json
+- PIL
+- skimage
+- tqdm
+- visdom
+- trimesh
